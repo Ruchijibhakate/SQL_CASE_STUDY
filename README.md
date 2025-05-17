@@ -26,4 +26,5 @@ Link to Case Study : https://github.com/Ruchijibhakate/SQL_CASE_STUDY
 
 I'd love to hear your thoughts and insights in the comments. How do you think data analysis can benefit small businesses like Tiny Shop? 🤔
 
+
 #DataAnalysis #SQL #BusinessInsights #SalesAnalysis #SmallBusiness
